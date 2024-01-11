@@ -6,6 +6,8 @@ This module 9 Challenge was given to me by the coding bootcamp of U of O, The go
 
 ## Video Instructions
 
+https://drive.google.com/file/d/15vTIzcUi371TTy4CZsJUwMXlWOLKNUsV/view?usp=sharing
+
 ## Installation
 
 The provided Code must be on the users machine to run, must have node installed on users machine, I used node 20.
